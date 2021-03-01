@@ -11,7 +11,7 @@
     "echarts-for-react": "^2.0.8",
     "enquire.js": "^2.1.6",
     "omit.js": "^1.0.0",
-    "prismjs": "^1.13.0",
+    "prismjs": "^1.23.0",
     "rc-menu": "^6.2.6",
     "rc-tooltip": "^3.7.0",
     "react": "^16.2.0",
